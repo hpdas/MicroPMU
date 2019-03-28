@@ -1,6 +1,6 @@
-## Real NVP in PyTorch
+## Micro-Phasor Measurement Unit
 
-Implementation of Micro-PMU .in PyTorch. Based on the paper:
+Implementation of Micro-PMU, Based on the paper:
 Development of a micro-phasor measurement unit for distribution system applications
 
 Usage: 
