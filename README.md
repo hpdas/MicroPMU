@@ -13,4 +13,4 @@ Implementation of Micro-PMU, Based on the paper:
   IAR Embedded Workbench (from IAR Systems) for Microcontroller and Arduino IDE (from Arduino) for ESP 8266 WiFi module
 
 ## Prototype
-![Micro-PMU Prototype](/papers/pdf/micro_pmu.png?raw=true "Micro-PMU Prototype")
+![Micro-PMU Prototype](/public_data/micro_pmu.png "Micro-PMU Prototype")
