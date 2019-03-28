@@ -8,7 +8,7 @@ Implementation of Micro-PMU, Based on the paper:
 
 ## Usage 
   ### Hardware Requirement: 
-  TM4C123G microcontroller (from Texas Instruments) and ESP 8266 WiFi module\
+  TM4C123G microcontroller (from Texas Instruments) and ESP 8266 WiFi module
   ### Software Requirement: 
   IAR Embedded Workbench (from IAR Systems) for Microcontroller and Arduino IDE (from Arduino) for ESP 8266 WiFi module
 
