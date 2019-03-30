@@ -4,6 +4,10 @@ Implementation of Micro-PMU, for the paper:
 
   > [Development of a micro-phasor measurement unit for distribution system applications](http://www.iitk.ac.in/npsc/Papers/NPSC2016/1570291677.pdf)\
   > Hari Prasanna Das, Ashok Kumar Pradhan
+ and
+  > [Micro-Phasor Measurement Unit (μPMU) Development and its Applications](http://hariprasanna.com/papers/pdf/BTP_Final_Report.pdf)\
+  > Hari Prasanna Das
+ 
 
 
 ## Usage 
